@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Bricolage Grotesque",
+        body: "Bricolage Grotesque",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -38,8 +38,8 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#000000",
+          lightgray: "#323232",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",

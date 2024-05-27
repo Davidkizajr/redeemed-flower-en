@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+	YouTube: "https://www.youtube.com/channel/UCJFRIBXYPoMnVAuVY-qohAA",
+	Instagram: "https://www.instagram.com/redeemedflower_/",
     },
   }),
 }
@@ -17,12 +17,12 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
+    Component.PageTitle(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    Component.TagList()
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
