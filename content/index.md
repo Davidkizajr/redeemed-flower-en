@@ -1,4 +1,5 @@
 ---
+permilialink: /
 title: redeemed flower
 draft: true
 ---
