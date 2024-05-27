@@ -1,7 +1,4 @@
 ---
-permilialink: /
-title: redeemed flower
-draft: true
+title: Bienvenue
 ---
-
-The rest of your content lives here. You can use **Markdown** here :)
+Bienvenue sur mon site, que Dieu vous bénisse.
