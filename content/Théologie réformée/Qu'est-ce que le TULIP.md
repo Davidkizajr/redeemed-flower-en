@@ -3,6 +3,8 @@ title: Qu'est-ce que le TULIP ?
 date: 2024-05-28
 lastmod: 2024-05-28
 ---
+![flowers on the table](https://images.unsplash.com/photo-1586968295564-92fd7572718b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0dWxpcHxlbnwwfDB8fHwxNzE2OTI4ODc1fDA&ixlib=rb-4.0.3&q=80&w=1080)
+
 Les 5 points du TULIP sont l'un des fondements de la théologie réformée, mais ils sont aussi controversés parmi beaucoup de chrétiens de nos jours, et peuvent mener à des arguments plus émotionnels que bibliques contre cette doctrine. Dans cette page, nous allons voir brièvement quels sont les différents points et comment la Bible en parle.
 ## T : Total Depravity (dépravation totale)
 
