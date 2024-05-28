@@ -3,7 +3,7 @@ title: Qu'est-ce que le TULIP ?
 date: 2024-05-28
 lastmod: 2024-05-28
 ---
-Les 5 points du TULIP sont l'un des fondements de la théologie réformée, mais ils sont aussi controversés parmi beaucoup de chrétiens de nos jours, et peuvent mener à des arguments plus émotionnels que bibliques contre cette doctrine. Dans cette page, nous allons voir quels sont les différents points et comment la Bible en parle.
+Les 5 points du TULIP sont l'un des fondements de la théologie réformée, mais ils sont aussi controversés parmi beaucoup de chrétiens de nos jours, et peuvent mener à des arguments plus émotionnels que bibliques contre cette doctrine. Dans cette page, nous allons voir brièvement quels sont les différents points et comment la Bible en parle.
 ## T : Total Depravity (dépravation totale)
 
 Le point de la dépravation totale enseigne que l'homme, dans sa nature, est corrompu par le péché et qu'il est incapable de se sauver lui-même.
@@ -25,7 +25,7 @@ Il existe d'autres passages pour affirmer cette idée de dépravation totale, qu
 > [!bibleverse]- Éphésiens 2:1-3
 > <span style="color:#5a708a">*Vous étiez morts par vos offenses et par vos péchés,*<br/>*dans lesquels vous marchiez autrefois, selon le train de ce monde, selon le prince de la puissance de l'air, de l'esprit qui agit maintenant dans les fils de la rébellion.*<br/>*Nous tous aussi, nous étions de leur nombre, et nous vivions autrefois selon les convoitises de notre chair, accomplissant les volontés de la chair et de nos pensées, et nous étions par nature des enfants de colère, comme les autres...*</span>
 
-Cela veut dire que nous ne sommes pas capables de venir à Dieu par notre propre choix. Car comme nous n'avons aucun désir de chercher Dieu, nous n'aurons aucune vraie volonté de choisir de vivre pour lui.
+Cela veut dire que nous ne sommes pas capables de venir à Dieu par notre propre choix. Car comme nous n'avons aucun désir de chercher Dieu, nous n'aurons aucune vraie volonté de choisir de vivre pour Lui.
 
 Les bonnes actions que nous pouvons faire dans notre vie ne nous garantit pas non plus l'entrée au paradis, car elles sont salies par notre péché.
 
@@ -66,3 +66,17 @@ Voici quelques passages pouvant prouver cela :
 ><span style="color:#5a708a"> *Maintenant ils ont connu que tout ce que tu m'as donné vient de toi.<br/>Car je leur ai donné les paroles que tu m'as données; et ils les ont reçues, et ils ont vraiment connu que je suis sorti de toi, et ils ont cru que tu m'as envoyé.<br/>C'est pour eux que je prie. Je ne prie pas pour le monde, mais pour ceux que tu m'as donnés, parce qu'ils sont à toi; -<br/>et tout ce qui est à moi est à toi, et ce qui est à toi est à moi; -et je suis glorifié en eux.*</span>
 
 Christ serait-il mort pour tout le monde malgré le fait que beaucoup ne croiront jamais en Lui ? Si tel est le cas, Christ n'est qu'un sauveur potentiel, et ainsi Dieu n'aurait pas réussi à sauver certaines personnes.
+
+## I : Irresistible Grace (grâce irrésistible)
+
+Dieu fait en sorte que Ses élus viennent à Lui en les regénérant par l'œuvre du Saint Esprit, et les amènera ainsi à Lui selon Sa volonté.
+
+Comme nous n'avons aucune inclination à venir à Dieu par notre nature, Dieu Lui-même accomplit le renouvellement de nos vies.
+
+> [!bibleverse]- Jean 5:21
+><span style="color:#5a708a"> *Car, comme le Père ressuscite les morts et donne la vie, ainsi le Fils donne la vie à qui il veut.*</span>
+
+> [!bibleverse]- Jean 6:44
+><span style="color:#5a708a"> *Nul ne peut venir à moi, si le Père qui m'a envoyé ne l'attire; et je le ressusciterai au dernier jour.*</span>
+
+Cet acte est nécessaire pour qu'un homme mort vienne à la vie, et tout ceci est accompli selon la volonté de Dieu.
