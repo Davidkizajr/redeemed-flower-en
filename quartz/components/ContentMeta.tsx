@@ -27,10 +27,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-      const segments: (string | JSX.Element)[] = []
+      const segments: string[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        const createdDate = formatDate(getDate(cfg, fileData)!, cfg.locale)
+        let modifiedDateSegment = '';
+        if (fileData.frontmatter.modified) {
+            const modifiedDate = formatDate(new Date(fileData.frontmatter.modified));
+            modifiedDateSegment = `, modifié le ${modifiedDate}`;
+        }
+        segments.push(`Créé le ${createdDate}${modifiedDateSegment}`)
       }
 
       // Display reading time if enabled
@@ -42,13 +48,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
-      const segmentsElements = segments.map((segment) => <span>{segment}</span>)
-
-      return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segmentsElements}
-        </p>
-      )
+      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
     } else {
       return null
     }
