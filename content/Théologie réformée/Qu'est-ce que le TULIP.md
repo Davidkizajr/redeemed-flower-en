@@ -1,6 +1,6 @@
 ---
 title: Qu'est-ce que le TULIP ?
-date: 2024-05-27
+date: 2024-05-28
 lastmod: 2024-05-28
 ---
 Les 5 points du TULIP sont l'un des fondements de la théologie réformée, mais ils sont aussi controversés parmi beaucoup de chrétiens de nos jours, et peuvent mener à des arguments plus émotionnels que bibliques contre cette doctrine. Dans cette page, nous allons voir quels sont les différents points et comment la Bible en parle.
@@ -49,3 +49,20 @@ Ce choix est effectué, non pas à cause de quoi que nous ayons nous-mêmes, mai
 L'élection a pour but de justifier des pécheurs morts dans leurs péchés et de leur donner la vie. Ceci est une grâce que Dieu nous a accordé, en serait il autrement, nous resterions morts et nous nous dirigerions de plus en plus vers l'enfer.
 
 ## L : Limited Atonement (expiation limitée)
+
+Ceci est le point du TULIP le plus controversial. Il enseigne que le sacrifice de Jésus sur la croix a été effectué pour sauver les élus et **seulement** les élus.
+
+En effet, le salut n'a pas été rendu juste possible pour ceux qui "choisissent" de venir à Lui, car nous avons vu que n'est pas possible ([[#T Total Depravity (dépravation totale)|voir le point abordé ci-dessus]]), mais pour le salut efficace du peuple de Dieu.
+
+Voici quelques passages pouvant prouver cela :
+
+> [!bibleverse]- Matthieu 1:21
+><span style="color:#5a708a"> *elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son peuple de ses péchés.*</span>
+
+> [!bibleverse]- Jean 10:26-30
+><span style="color:#5a708a"> *Mais vous ne croyez pas, parce que vous n'êtes pas de mes brebis. <br/>Mes brebis entendent ma voix; je les connais, et elles me suivent. <br/>Je leur donne la vie éternelle; et elles ne périront jamais, et personne ne les ravira de ma main. <br/>Mon Père, qui me les a données, est plus grand que tous; et personne ne peut les ravir de la main de mon Père. <br/>Moi et le Père nous sommes un.*</span>
+
+> [!bibleverse]- Jean 17:7-10
+><span style="color:#5a708a"> *Maintenant ils ont connu que tout ce que tu m'as donné vient de toi.<br/>Car je leur ai donné les paroles que tu m'as données; et ils les ont reçues, et ils ont vraiment connu que je suis sorti de toi, et ils ont cru que tu m'as envoyé.<br/>C'est pour eux que je prie. Je ne prie pas pour le monde, mais pour ceux que tu m'as donnés, parce qu'ils sont à toi; -<br/>et tout ce qui est à moi est à toi, et ce qui est à toi est à moi; -et je suis glorifié en eux.*</span>
+
+Christ serait-il mort pour tout le monde malgré le fait que beaucoup ne croiront jamais en Lui ? Si tel est le cas, Christ n'est qu'un sauveur potentiel, et ainsi Dieu n'aurait pas réussi à sauver certaines personnes.
