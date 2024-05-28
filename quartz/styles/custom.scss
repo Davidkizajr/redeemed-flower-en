@@ -13,3 +13,9 @@
   }
 }
 
+ul.overflow,
+ol.overflow {
+  &:after {
+    background: none;
+  }
+}

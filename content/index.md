@@ -2,7 +2,7 @@
 title: Bienvenue
 ---
 # Bonjour et bienvenue
-Je vous souhaite la bienvenue sur mon site. allez sur [[essai]]
+Je vous souhaite la bienvenue sur mon site.
 
 Vous trouverez ici différents articles parlant de la foi chrétienne, la théologie et bien d'autres.
 

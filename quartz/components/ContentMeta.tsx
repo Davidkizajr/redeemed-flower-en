@@ -27,16 +27,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-      const segments: string[] = []
+      const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        const createdDate = formatDate(getDate(cfg, fileData)!, cfg.locale)
-        let modifiedDateSegment = '';
-        if (fileData.frontmatter.modified) {
-            const modifiedDate = formatDate(new Date(fileData.frontmatter.modified));
-            modifiedDateSegment = `, modifié le ${modifiedDate}`;
-        }
-        segments.push(`Créé le ${createdDate}${modifiedDateSegment}`)
+        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+		segments.push(formatDate(fileData.dates.modified))
       }
 
       // Display reading time if enabled
@@ -48,7 +43,30 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
-      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
+      const segmentsElements = segments.map((segment) => <span>{segment}</span>)
+
+      return (
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            marginTop: "0.25rem",
+          }}
+        >
+          <span className="content-meta">Créé : {segments[0]}</span>
+          <span className="content-meta" style={{ margin: "0 10px" }}>
+            |
+          </span>{" "}
+          {/* Adjust margin as needed */}
+          <span className="content-meta">Dernière modification : {segments[1]}</span>
+          <span className="content-meta" style={{ margin: "0 10px" }}>
+            |
+          </span>{" "}
+          {/* Adjust margin as needed */}
+          <span className="content-meta">{segments[2]}</span>
+        </div>
+      )
     } else {
       return null
     }
