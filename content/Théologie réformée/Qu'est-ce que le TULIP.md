@@ -52,7 +52,7 @@ L'élection a pour but de justifier des pécheurs morts dans leurs péchés et d
 
 Ceci est le point du TULIP le plus controversial. Il enseigne que le sacrifice de Jésus sur la croix a été effectué pour sauver les élus et **seulement** les élus.
 
-En effet, le salut n'a pas été rendu juste possible pour ceux qui "choisissent" de venir à Lui, car nous avons vu que n'est pas possible ([[#T Total Depravity (dépravation totale)|voir le point abordé ci-dessus]]), mais pour le salut efficace du peuple de Dieu.
+En effet, le salut n'a pas été rendu juste possible pour ceux qui "choisissent" de venir à Lui, car nous avons vu que n'est pas possible ([[#t--total-depravity-dépravation-totale|voir le point abordé ci-dessus]]), mais pour le salut efficace du peuple de Dieu.
 
 Voici quelques passages pouvant prouver cela :
 
