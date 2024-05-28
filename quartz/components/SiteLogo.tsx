@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function SiteLogo({ cfg, fileData }: QuartzComponentProps) {
-  const ogImagePath = `/static/logo.png`
+  const ogImagePath = `/static/logo.webp`
   return <div><a href="/"><img class="site-logo" src={ogImagePath} alt="Return to Home Page"></img></a></div>
 }
 SiteLogo.css = `
