@@ -226,7 +226,6 @@ export function renderPage(
                     <HeaderComponent {...componentData} />
                   ))}
                 </Header>
-                {LeftComponent}
                 <div class="popover-hint">
                   {slug !== "index" &&
                     beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
@@ -238,6 +237,7 @@ export function renderPage(
                 <BodyComponent {...componentData} />
               ))}
             </div>
+			{LeftComponent}
             {RightComponent}
           </Body>
           <Footer {...componentData} />
