@@ -14,6 +14,7 @@ interface RenderComponents {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
+  afterBody: QuartzComponent[]
   left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
@@ -187,6 +188,7 @@ export function renderPage(
     header,
     beforeBody,
     pageBody: Content,
+    afterBody,
     left,
     right,
     footer: Footer,
@@ -217,7 +219,6 @@ export function renderPage(
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
-            {LeftComponent}
             <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
@@ -225,13 +226,17 @@ export function renderPage(
                     <HeaderComponent {...componentData} />
                   ))}
                 </Header>
+                {LeftComponent}
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+                  {slug !== "index" &&
+                    beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
                 </div>
               </div>
               <Content {...componentData} />
+              <hr />
+              {afterBody?.map((BodyComponent) => (
+                <BodyComponent {...componentData} />
+              ))}
             </div>
             {RightComponent}
           </Body>
