@@ -1,7 +1,7 @@
 ---
 title: Qu'est-ce que le TULIP ?
 date: 2024-05-28
-lastmod: 2024-05-28
+lastmod: 2024-05-29
 ---
 ![flowers on the table](https://images.unsplash.com/photo-1586968295564-92fd7572718b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0dWxpcHxlbnwwfDB8fHwxNzE2OTI4ODc1fDA&ixlib=rb-4.0.3&q=80&w=1080)
 
@@ -82,3 +82,18 @@ Comme nous n'avons aucune inclination à venir à Dieu par notre nature, Dieu Lu
 ><span style="color:#5a708a"> *Nul ne peut venir à moi, si le Père qui m'a envoyé ne l'attire; et je le ressusciterai au dernier jour.*</span>
 
 Cet acte est nécessaire pour qu'un homme mort vienne à la vie, et tout ceci est accompli selon la volonté de Dieu.
+
+## P : Perseverance of the Saints (persévérance des saints)
+
+Pour terminer, ce dernier point enseigne que Dieu garde les élus jusqu'à la fin. Ce que le Seigneur a commencé en nous, il l'aboutira.
+
+En effet, malgré les nombreuses fautes que nous pourrons commettre envers Dieu dans nos vies, rien ne nous séparera de Lui, car ce n'est pas sur nous que repose la tâche de sauver, mais sur Dieu.
+
+> [!bibleverse]- Romains 8:35-39
+><span style="color:#5a708a"> *Qui nous séparera de l'amour de Christ? Sera-ce la tribulation, ou l'angoisse, ou la persécution, ou la faim, ou la nudité, ou le péril, ou l'épée?<br/>selon qu'il est écrit: C'est à cause de toi qu'on nous met à mort tout le jour, Qu'on nous regarde comme des brebis destinées à la boucherie. <br/>Mais dans toutes ces choses nous sommes plus que vainqueurs par celui qui nous a aimés.<br/>Car j'ai l'assurance que ni la mort ni la vie, ni les anges ni les dominations, ni les choses présentes ni les choses à venir,<br/>ni les puissances, ni la hauteur, ni la profondeur, ni aucune autre créature ne pourra nous séparer de l'amour de Dieu manifesté en Jésus Christ notre Seigneur.*</span>
+
+> [!bibleverse]- Jean 3:16
+><span style="color:#5a708a"> *Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la <span style="font-weight:bold">vie éternelle</span>.*</span>
+
+---
+Nous avons vu dans cet article les 5 points du TULIP. J'espère que cela vous a été utile pour en comprendre plus sur le calvinisme.
