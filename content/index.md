@@ -1,20 +1,20 @@
 ---
-title: Bienvenue
+title: Welcome
 ---
-# Bonjour et bienvenue
-Je vous souhaite la bienvenue sur mon site.
+# Hello and welcome
+I welcome you to my site.
 
-Vous trouverez ici différents articles parlant de la foi chrétienne, la théologie et bien d'autres.
+Here you will find different articles talking about the Christian faith, theology and many others.
 
-Voici quelques versets que vous pouvez lire :
+Here are some verses you can read:
 
-> [!bibleverse]- Psaume 150:1
-> <span style="color:#5a708a">*Louez l'Éternel! Louez Dieu dans son sanctuaire! Louez-le dans l'étendue, où éclate sa puissance!*</span>
+> [!bibleverse]- Psalm 150:1
+> <span style="color:#5a708a">*Praise the LORD! Praise God in His sanctuary; Praise Him in His mighty expanse.*</span>
 
-> [!bibleverse]- Ésaïe 42:8
-> <span style="color:#5a708a">*Je suis l'Éternel, c'est là mon nom; Et je ne donnerai pas ma gloire à un autre, Ni mon honneur aux idoles.*</span>
+> [!bibleverse]- Isaiah 42:8
+> <span style="color:#5a708a">*"I am the LORD, that is My name; I will not give My glory to another, Nor My praise to graven images.*</span>
 
-> [!bibleverse]- Jean 3:18
-> <span style="color:#5a708a">*Celui qui croit en lui n'est point jugé; mais celui qui ne croit pas est déjà jugé, parce qu'il n'a pas cru au nom du Fils unique de Dieu.*</span>
+> [!bibleverse]- John 3:18
+> <span style="color:#5a708a">*"He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God.*</span>
 
-Que Dieu vous bénisse.
+God bless you.
