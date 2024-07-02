@@ -1,6 +1,7 @@
 ---
 title: Welcome
 ---
+Pour le français, cliquez [ici](https://redeemed-flower.pages.dev/)
 # Hello and welcome
 I welcome you to my site.
 

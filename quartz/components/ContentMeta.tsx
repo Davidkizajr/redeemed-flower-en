@@ -45,6 +45,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
+      if (formatDate(fileData.dates.modified) != formatDate(getDate(cfg, fileData)!)) {
+
       return (
         <div
           style={{
@@ -54,12 +56,31 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
             marginTop: "0.25rem",
           }}
         >
-          <span className="content-meta">Created : {segments[0]}</span>
+          <span className="content-meta">Published : {segments[0]}</span>
           <span className="content-meta" style={{ margin: "0 10px" }}>
             |
           </span>{" "}
           {/* Adjust margin as needed */}
           <span className="content-meta">Last edited : {segments[1]}</span>
+          <span className="content-meta" style={{ margin: "0 10px" }}>
+            |
+          </span>{" "}
+          {/* Adjust margin as needed */}
+          <span className="content-meta">{segments[2]}</span>
+        </div>
+      )
+      }
+
+      return (
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            marginTop: "0.25rem",
+          }}
+        >
+          <span className="content-meta">Published : {segments[0]}</span>
           <span className="content-meta" style={{ margin: "0 10px" }}>
             |
           </span>{" "}
